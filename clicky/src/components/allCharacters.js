@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Character from './character';
+import '../styles/style.css'
 
 class AllCharacters extends Component {
     render() {
@@ -14,7 +15,7 @@ class AllCharacters extends Component {
         })
         console.log(this.props.list.characters)
         return (
-            <div>
+            <div className="flex">
                 {allCharacters}
             </div>
         );

@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-grow: 4;
+    padding: 20px;
+}
+
+.character{
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-style: solid;
+    border-color: black;
+    margin: 10px;
+}
