@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "SpongeBob",
+        "src": "Spongebob.png"
+    },
+    {
+        "id": 2,
+        "name": "Squidward",
+        "src": "Squidward.png"
+    },
+    {
+        "id": 3,
+        "name": "Mr Krabs",
+        "src": "mr_krabs.png"
+    },
+    {
+        "id": 4,
+        "name": "The Flying Dutchman",
+        "src": "dutchman.png"
+    },
+    {
+        "id": 5,
+        "name": "Gary",
+        "src": "gary.png"
+    },
+    {
+        "id": 6,
+        "name": "Karen",
+        "src": "karen.png"
+    },
+    {
+        "id": 7,
+        "name": "Larry the lobster",
+        "src": "larry.png"
+    },
+    {
+        "id": 8,
+        "name": "Mrs Puff",
+        "src": "mrs_puff.png"
+    },
+    {
+        "id": 9,
+        "name": "Patrick",
+        "src": "patrick.png"
+    },
+    {
+        "id": 10,
+        "name": "Pearl",
+        "src": "pearl.png"
+    },
+    {
+        "id": 11,
+        "name": "Plankton",
+        "src": "plankton.png"
+    },
+    {
+        "id": 12,
+        "name": "Sandy Cheeks",
+        "src": "sandy_cheeks.png"
+    }
+]
